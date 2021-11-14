@@ -12,4 +12,4 @@ many complicated problems and can sharpen yourself towards data analysis.
 2) Inside each solutions folder, there are both `solutions` and `R codes`  
 
 Reference Book:
-1) Kuhn, M., Johnson, K. (2013) Applied Predictive Modeling. NY: Springer
+1) Kuhn, M., Johnson, K. (2013) Applied Predictive Modeling. NY: Springer.
